@@ -81,8 +81,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KangTaewon&show_icons=true&theme=react" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangTaewon&layout=compact&theme=react" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=taewonKang1&show_icons=true&theme=react" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taewonKang1&layout=compact&theme=react" />
 </p>
 
 ---
